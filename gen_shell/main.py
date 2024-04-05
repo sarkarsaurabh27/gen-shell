@@ -14,7 +14,7 @@ from langchain_core.exceptions import OutputParserException
 from pydantic import BaseModel, Field
 from urllib3.exceptions import InsecureRequestWarning
 
-# Load environment variables from a .env file
+# Load environment variables from an .env file
 load_dotenv()
 
 log = logging.getLogger(__name__)

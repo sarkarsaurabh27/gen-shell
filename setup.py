@@ -17,7 +17,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'gen-shell=gen_shell:main',
+            'gen-shell=gen_shell.main:main',
         ],
     },
 )

@@ -20,6 +20,8 @@
 
 Gen-Shell is a command-line interface (CLI) tool that uses the power of OpenAI's GPT-4 to interpret plain English descriptions of tasks and generate the corresponding shell commands. Inspired by projects like [Zsh Codex](https://github.com/tom-doerr/zsh_codex) and [Codex-CLI by Microsoft](https://github.com/microsoft/Codex-CLI?tab=readme-ov-file), Gen-Shell aims to make the command line more accessible and efficient.
 
+![gen-shell](gen-shell.gif "gen-shell-cli")
+
 ## 🚀 Features
 
 - **AI-Powered**: Utilizes OpenAI's GPT-4 for intelligent command generation.
@@ -62,6 +64,24 @@ Gen-Shell is a command-line interface (CLI) tool that uses the power of OpenAI's
 
     ```sh
     export OPENAI_API_KEY="Your_OpenAI_API_Key"
+    ```
+
+5. [Optional] **Setup an Alias**
+
+    Setup gen-sell alias `gs` in bash profile:
+
+    ```sh
+   # if `.bash_profile` is your primary bash configuration file):
+    echo "alias gs='gen-shell'" >> ~/.bash_profile
+    source ~/.bash_profile
+   
+   # If you're using `.bashrc` predominantly (common on Linux systems), use:
+    echo "alias gs='gen-shell'" >> ~/.bashrc
+    source ~/.bashrc
+   
+   # Use this command to add the alias to your .zshrc:
+    echo "alias gs='gen-shell'" >> ~/.zshrc
+    source ~/.zshrc
     ```
 
 ## 🔨 Usage
