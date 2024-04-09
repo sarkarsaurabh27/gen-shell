@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/stars/yourusername/gen-shell?style=for-the-badge" alt="stars" />
-    <img src="https://img.shields.io/github/issues/yourusername/gen-shell?style=for-the-badge" alt="issues" />
-    <img src="https://img.shields.io/github/forks/yourusername/gen-shell?style=for-the-badge" alt="forks" />
-    <img src="https://img.shields.io/github/license/yourusername/gen-shell?style=for-the-badge" alt="license" />
+    <img src="https://img.shields.io/github/stars/sarkarsaurabh27/gen-shell?style=for-the-badge" alt="stars" />
+    <img src="https://img.shields.io/github/issues/sarkarsaurabh27/gen-shell?style=for-the-badge" alt="issues" />
+    <img src="https://img.shields.io/github/forks/sarkarsaurabh27/gen-shell?style=for-the-badge" alt="forks" />
+    <img src="https://img.shields.io/github/license/sarkarsaurabh27/gen-shell?style=for-the-badge" alt="license" />
 </p>
 
 <!-- <p align="center">
@@ -136,5 +136,5 @@ This project is inspired by:
 ---
 
 <p align="center">
-    Made with ❤️ by [Your Name]
+    Open for Contribution 🙂.
 </p>
