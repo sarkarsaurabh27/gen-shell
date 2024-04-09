@@ -136,5 +136,5 @@ This project is inspired by:
 ---
 
 <p align="center">
-    Open for Contribution 🙂.
+    Open to Contributions 🙂.
 </p>
